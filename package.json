@@ -5,7 +5,15 @@
   "main": "index.js",
   "author": "sidechain",
   "license": "ISC",
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/sidechain-studio/sidechain-musicHub.git"
+},
   "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.4.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.1"
   }
